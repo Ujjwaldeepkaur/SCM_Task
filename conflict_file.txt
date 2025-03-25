@@ -5,3 +5,4 @@ this is the main
 this is the branch1
 this is the branch1
 >>>>>>> branch1
+ This is the main branch
