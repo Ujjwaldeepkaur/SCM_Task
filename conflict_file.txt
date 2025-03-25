@@ -1,2 +1,7 @@
 this is the main branch
+<<<<<<< HEAD
 this is the main
+=======
+this is the branch1
+this is the branch1
+>>>>>>> branch1
